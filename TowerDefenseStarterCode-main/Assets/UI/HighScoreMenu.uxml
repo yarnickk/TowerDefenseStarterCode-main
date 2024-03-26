@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&apos;project://database/Assets/Art/background.png?fileID=2800000&amp;guid=0a8d82d502464044fbaa28bfa10249b6&amp;type=3#background&apos;);">
+        <ui:Button text="Play Again" parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 186px; left: 181px; width: 230px; background-color: rgb(0, 247, 0);" />
+    </ui:VisualElement>
+    <ui:Label tabindex="-1" text="HighScores" parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 90px; left: 245px; color: rgb(255, 254, 254);" />
+    <ui:Label tabindex="-1" text="You Lost" parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 68px; left: 254px; -unity-text-outline-color: rgba(255, 252, 252, 0); background-color: rgba(20, 242, 7, 0); color: rgb(255, 255, 255);" />
+    <ui:Label tabindex="-1" text="Game Over" parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 30px; left: 244px; color: rgb(255, 254, 254);" />
+    <ui:Label tabindex="-1" text="Yarnick : 15642&#10;" parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 106px; left: 235px; text-shadow: 0 0 0 rgba(255, 255, 255, 0); color: rgb(255, 255, 255);" />
+    <ui:Label tabindex="-1" text="...." parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 122px; left: 278px; color: rgb(255, 255, 255);" />
+    <ui:Label tabindex="-1" text="....." parse-escape-sequences="true" display-tooltip-when-elided="true" style="position: absolute; top: 140px; left: 277px; color: rgb(255, 250, 250);" />
+</ui:UXML>
